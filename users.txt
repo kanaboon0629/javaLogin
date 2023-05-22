@@ -1,0 +1,4 @@
+kanako,tae
+nanako,aaa
+keiko,bbb
+atsuo,ccc
